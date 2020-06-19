@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "995766903913",
+    "firebase_url": "https://wordvocab-89519.firebaseio.com",
+    "project_id": "wordvocab-89519",
+    "storage_bucket": "wordvocab-89519.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995766903913:android:d5cdde7adb56c1891aaef8",
+        "android_client_info": {
+          "package_name": "com.gaurav.word_vocab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995766903913-7u4dkb06ufb8evb35q7a8d7apibekq2j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaurav.word_vocab",
+            "certificate_hash": "b3cc2499d5a871d88d8b8434e8a2558f3751acf3"
+          }
+        },
+        {
+          "client_id": "995766903913-9dah6d65p42ot4mfmi48u8aoqgsneeuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRYvFqVlRBKVaOvlIBtcwiYRjm19w2REI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995766903913-9dah6d65p42ot4mfmi48u8aoqgsneeuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
